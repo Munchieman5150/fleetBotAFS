@@ -1,34 +1,402 @@
 [
-  {
-  "name": "Munchieman5150",
-  "comment": "",
-  "allyCode": "893253921",
-  "tagIdOnDrop": "196107613635739649",
-  "tagIdOnClimb": "",
-  "userIcon": ":white_check_mark:"
-  },
-  {
-  "name": "Brodie",
-  "comment": "",
-  "allyCode": "177326971",
-  "tagIdOnDrop": "813959180477661214",
-  "tagIdOnClimb": "",
-  "userIcon": ":white_check_mark:"
-  },
-  {
-  "name": "Jace Jacks",
-  "comment": "",
-  "allyCode": "844244715",
-  "tagIdOnDrop": "813959180477661214",
-  "tagIdOnClimb": "",
-  "userIcon": ":white_check_mark:"
-  },
-  {
-  "name": "Megarylez",
-  "comment": "",
-  "allyCode": "638966965",
-  "tagIdOnDrop": "813959180477661214",
-  "tagIdOnClimb": "",
-  "userIcon": ":white_check_mark:"
-  },
+ {
+   "name": "Ibeyz",
+   "comment": "",
+   "allyCode": 618915335,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ca:"
+ },
+ {
+   "name": "DarkVision",
+   "comment": "",
+   "allyCode": 699543935,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ca:"
+ },
+ {
+   "name": "GΘ FiKSiHEARTッ",
+   "comment": "",
+   "allyCode": 362927618,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_de:"
+ },
+ {
+   "name": "MrFloppy",
+   "comment": "",
+   "allyCode": 427558836,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_eu:"
+ },
+ {
+   "name": "Hurn",
+   "comment": "",
+   "allyCode": 396465656,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_gb:"
+ },
+ {
+   "name": "IE Erebus",
+   "comment": "",
+   "allyCode": 993154284,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_gb:"
+ },
+ {
+   "name": "Sarith Antonio",
+   "comment": "",
+   "allyCode": 472251617,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_it:"
+ },
+ {
+   "name": "ハミ毛",
+   "comment": "",
+   "allyCode": 779648988,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_jp:"
+ },
+ {
+   "name": "석란",
+   "comment": "",
+   "allyCode": 762442452,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_kr:"
+ },
+ {
+   "name": "tayson95",
+   "comment": "",
+   "allyCode": 338554992,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ru:"
+ },
+ {
+   "name": "Megarylez",
+   "comment": "",
+   "allyCode": 638966965,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ru:"
+ },
+ {
+   "name": "D0N K",
+   "comment": "",
+   "allyCode": 111715583,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ru:"
+ },
+ {
+   "name": "Julian",
+   "comment": "",
+   "allyCode": 278147258,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_ru:"
+ },
+ {
+   "name": "Ichigo",
+   "comment": "",
+   "allyCode": 428418449,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_se:"
+ },
+ {
+   "name": "Hano",
+   "comment": "",
+   "allyCode": 856794311,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_sg:"
+ },
+ {
+   "name": "AmateurSurgeon",
+   "comment": "",
+   "allyCode": 411968687,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Junk Puncher",
+   "comment": "",
+   "allyCode": 258791889,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "DarthSilly",
+   "comment": "",
+   "allyCode": 136764665,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Nejaa Halcyon",
+   "comment": "",
+   "allyCode": 246366392,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Trouble in NYC",
+   "comment": "",
+   "allyCode": 516292912,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Bantha",
+   "comment": "",
+   "allyCode": 695447348,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "DrooNutz",
+   "comment": "",
+   "allyCode": 835183777,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Rev",
+   "comment": "",
+   "allyCode": 923229365,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "DesertSwarm",
+   "comment": "",
+   "allyCode": 553243114,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Charlievader",
+   "comment": "",
+   "allyCode": 125494712,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Munchieman5150",
+   "comment": "",
+   "allyCode": 893253921,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Brodie",
+   "comment": "",
+   "allyCode": 177326971,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Jace Jacks",
+   "comment": "",
+   "allyCode": 844244715,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Chew Duffy",
+   "comment": "",
+   "allyCode": 995339928,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":flag_us:"
+ },
+ {
+   "name": "Mace Gotye",
+   "comment": "",
+   "allyCode": 724982193,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "QuiGonChi",
+   "comment": "",
+   "allyCode": 246919752,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Tal Diego",
+   "comment": "",
+   "allyCode": 173756972,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "L",
+   "comment": "",
+   "allyCode": 713471422,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Ashnaar",
+   "comment": "",
+   "allyCode": 547496462,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "HUNGSOOOOOLOW",
+   "comment": "",
+   "allyCode": 851247366,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Dymelos",
+   "comment": "",
+   "allyCode": 477858976,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "BeatsByRey",
+   "comment": "",
+   "allyCode": 357325725,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Daelyn",
+   "comment": "",
+   "allyCode": 694121678,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Ker Laeda",
+   "comment": "",
+   "allyCode": 723883184,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Armagreggon",
+   "comment": "",
+   "allyCode": 978828192,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "NomNom",
+   "comment": "",
+   "allyCode": 575569644,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Otiss",
+   "comment": "",
+   "allyCode": 396882831,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Wismann",
+   "comment": "",
+   "allyCode": 183788245,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Varachaud",
+   "comment": "",
+   "allyCode": 237223877,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Rabis",
+   "comment": "",
+   "allyCode": 489277226,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Titi4018",
+   "comment": "",
+   "allyCode": 271685188,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "Vital",
+   "comment": "",
+   "allyCode": 943794222,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "toddyt1974",
+   "comment": "",
+   "allyCode": 438386938,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "SB Bergi",
+   "comment": "",
+   "allyCode": 432427154,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ },
+ {
+   "name": "TSJavi",
+   "comment": "",
+   "allyCode": 135346649,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":skull_crossbones:"
+ }
 ]
