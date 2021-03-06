@@ -56,18 +56,18 @@
    "userIcon": ":flag_it:"
  },
  {
-   "name": "ハミ毛",
-   "comment": "",
+   "name": "<@!467528264336801792>",
+   "comment": "ハミ毛",
    "allyCode": 779648988,
-   "tagIdOnDrop": "467528264336801792",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":flag_jp:"
  },
  {
-   "name": "석란",
-   "comment": "",
+   "name": "<@!731514037787033641>",
+   "comment": "석란",
    "allyCode": 762442452,
-   "tagIdOnDrop": "731514037787033641",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":flag_kr:"
  },
@@ -80,10 +80,10 @@
    "userIcon": ":flag_ru:"
  },
  {
-   "name": "Megarylez",
-   "comment": "",
+   "name": "<@!404349099110957066>",
+   "comment": "Megarylez",
    "allyCode": 638966965,
-   "tagIdOnDrop": "404349099110957066",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":flag_ru:"
  },
@@ -200,26 +200,26 @@
    "userIcon": ":flag_us:"
  },
  {
-   "name": "Munchieman5150",
-   "comment": "",
+   "name": "<@!196107613635739649>",
+   "comment": "Munchieman5150",
    "allyCode": 893253921,
-   "tagIdOnDrop": "196107613635739649",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":point_up:"
  },
  {
-   "name": "Brodie",
-   "comment": "This is a comment",
+   "name": "<@!253012718234107905>",
+   "comment": "Brodie",
    "allyCode": 177326971,
-   "tagIdOnDrop": "253012718234107905",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":flag_us:"
  },
  {
-   "name": "Jace Jacks",
-   "comment": "What Does This Do?",
+   "name": "<@!469947669620588544>",
+   "comment": "Jace Jacks",
    "allyCode": 844244715,
-   "tagIdOnDrop": "469947669620588544",
+   "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":flag_us:"
  },
